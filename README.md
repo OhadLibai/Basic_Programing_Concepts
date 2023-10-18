@@ -1,3 +1,3 @@
 # Entry level programing tasks
 This repository include basic knowledge in writing code using Python&Java.
-These assignments were given as part of introductory courses to CS studies aiming . 
+These assignments were given as part of introductory courses to CS studies aiming....
