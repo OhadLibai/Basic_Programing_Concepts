@@ -10,7 +10,6 @@ import random  # loads python's random module in order to use random.random() in
 
 # Enter all IDs of participating students as strings, separated by commas.
 # For example: SUBMISSION_IDS = ["123456", "987654"] if submitted in a pair or SUBMISSION_IDS = ["123456"] if submitted alone.
-SUBMISSION_IDS = ["206843328"]
 
 ############
 # QUESTION 1
